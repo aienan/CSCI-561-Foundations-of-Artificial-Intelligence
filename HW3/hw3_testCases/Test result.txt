@@ -1,0 +1,116 @@
+The testing results for input 1:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The testing results for input 2:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.
+The testing results for input 3:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.
+The answer for the 5th query is correct.
+The testing results for input 4:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.
+The testing results for input 5:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.
+The testing results for input 6:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The testing results for input 7:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The testing results for input 8:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.
+The testing results for input 9:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.
+The testing results for input 10:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is incorrect.
+The testing results for input 11:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is incorrect.
+The testing results for input 12:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is incorrect.
+The testing results for input 13:
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.
+
+stdout:
+-------
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.
+The answer for the 5th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is incorrect.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is incorrect.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is incorrect.'
+The answer for the 1th query is correct.
+The answer for the 2th query is correct.
+The answer for the 3th query is correct.
+The answer for the 4th query is correct.'
